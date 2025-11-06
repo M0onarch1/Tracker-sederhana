@@ -1,5 +1,5 @@
-Tool ini dibuat dengan Python untuk membantu menganalisis akun Instagram kamu.
-Ada 3 fitur utama:
+**Tool ini dibuat dengan Python untuk membantu menganalisis akun Instagram kamu.
+Ada 3 fitur utama:**
 
 Follower Tracker → Melihat siapa yang baru follow atau unfollow kamu
 
